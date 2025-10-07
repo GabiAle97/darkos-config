@@ -1,0 +1,8 @@
+!./darkos_custom.conf  
+!./darkos_dynarec.conf  
+!./darkos_dynarec_extra.conf  
+!./darkos_mesa.conf
+!./DXVK_D8VK.conf
+!./VKD3D.conf
+!./trace
+!./.gitignore
